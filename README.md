@@ -3,7 +3,7 @@ DNSC_6301
 
 ### Basic Information
 
-*  **Authors : Students at the George Washington University School of Business**: Group 17 : Tivon Johnson `@gwu.edu`, Harsharan Gorli `harsharankaur@gwu.edu`, Andrew Levy `@gwu.edu`, Yingying Liu `@gwu.edu`
+*  **Authors : Students at the George Washington University School of Business**: Group 17 : Tivon Johnson `tivonj`, Harsharan Gorli `Harsh-5`, Andrew Levy `Arl34`, Yingying Liu `Yingying0201`
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: Apache 2.0 License
