@@ -44,9 +44,9 @@ DNSC_6301
 * **State any differences in columns between training and test data**: None
 
 ### Model Details
-* **Columns used as inputs in the final model:** 
-* **Column(s) used as target(s) in the final model:**
-* **Type of model:**
-* **Software used to implement the model:**
-* **Version of the modeling software:**
-* **Hyperparameters or other settings of your model:**
+* **Columns used as inputs in the final model:** 20
+* **Column(s) used as target(s) in the final model:** 
+* **Type of model:** Decision Tree
+* **Software used to implement the model:** Python 3.6+,
+* **Version of the modeling software:** v0.2.5.
+* **Hyperparameters or other settings of your model:** 
