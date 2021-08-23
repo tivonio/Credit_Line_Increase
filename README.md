@@ -44,7 +44,7 @@ DNSC_6301
 * **State any differences in columns between training and test data**: None
 
 ### Model Details
-* **Columns used as inputs in the final model:**
+* **Columns used as inputs in the final model:** 
 * **Column(s) used as target(s) in the final model:**
 * **Type of model:**
 * **Software used to implement the model:**
