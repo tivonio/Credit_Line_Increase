@@ -44,9 +44,29 @@ DNSC_6301
 * **State any differences in columns between training and test data**: None
 
 ### Model Details
-* **Columns used as inputs in the final model:** 20
-* **Column(s) used as target(s) in the final model:** 
+* **Columns used as inputs in the final model:** Limit_BAL,PAY_0, PAY_2, PAY_3, PAY_4, PAY_5, PAY_6,BILL_AMT1, BILL_AMT2, BILL_AMT3, BILL_AMT4, BILL_AMT5, BILL_AMT6,PAY_AMT1, PAY_AMT2, PAY_AMT3, PAY_AMT4, PAY_AMT5, PAY_AMT6
+* **Column(s) used as target(s) in the final model:** DELINQ_NEXT
 * **Type of model:** Decision Tree
-* **Software used to implement the model:** Python 3.6+,
+* **Software used to implement the model:** Python 3.6+, Google Colab
 * **Version of the modeling software:** v0.2.5.
 * **Hyperparameters or other settings of your model:** 
+
+### Quantitative analysis:
+* **Metrics used to evaluate the model and final figures:
+* **Training AUC: 0.78
+* **Validation AUC: 0.75
+* **Test AUC: 0.74
+* **Asian-to-White AIR: 1.02
+* **Black-to-White AIR: 0.81
+* **Female-to-Male AIR: 1.04
+* **Hispanic-to-White AIR: 0.83
+* **Iteration Plot of the final model (inclusive of Training AUC, Validation AUC and Hispanic-to-White AIR: download
+
+### Ethical considerations:
+* **Potential negative impacts of the model:
+* **Math/Software Problems: ____NEED TO FILL OUT
+* **Real world risks: ____*NEED TO FILL OUT
+* **Potential uncertainties relating to the impact of using the model:
+* **Math/Software Problems: ____NEED TO FILL OUT
+* **Real world risks: ____*NEED TO FILL OUT
+* **Other unexpected results:__ NEED TO FILL OUT
