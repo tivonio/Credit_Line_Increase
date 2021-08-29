@@ -49,7 +49,7 @@ DNSC_6301
 * **Type of model:** Decision Tree
 * **Software used to implement the model:** Python 3.6+, Google Colab
 * **Version of the modeling software:** v0.2.5.
-* **Hyperparameters or other settings of your model:** 
+* **Hyperparameters or other settings of your model:** max_depth = 12
 
 ### Quantitative analysis:
 * **Metrics used to evaluate the model and final figures:
