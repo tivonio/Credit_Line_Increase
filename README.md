@@ -64,9 +64,8 @@ DNSC_6301
 
 ### Ethical considerations:
 * **Potential negative impacts of the model:
-* **Math/Software Problems: ____NEED TO FILL OUT
-* **Real world risks: ____*NEED TO FILL OUT
+* - The model can lead to descrimination.  While the model may be accurate, accuracy does not always imply the model is unbiased.  Numerous factors that can lead to delinquency unfortunately can be linked with race or gender.  Bias testing was implemented in order to mitigate any potential descrimination
 * **Potential uncertainties relating to the impact of using the model:
-* **Math/Software Problems: ____NEED TO FILL OUT
-* **Real world risks: ____*NEED TO FILL OUT
-* **Other unexpected results:__ NEED TO FILL OUT
+* - One uncertainty could the off-label use of the model.  While it is the intention of the group to use the model specifically for extending a credit line, there is the potential of others to use it where it has not been tested
+* - Another uncertainty can be the accuracy of the data itself.  Over time, the data itself can become dated, leading to inaccurate results.
+* **Other unexpected results:
