@@ -60,13 +60,6 @@ DNSC_6301
   * Black-to-White AIR: 0.85
   * Female-to-Male AIR: 1.02
   * Hispanic-to-White AIR: 0.83
-* **Training AUC: 0.78
-* **Validation AUC: 0.75
-* **Test AUC: 0.74
-* **Asian-to-White AIR: 1.00
-* **Black-to-White AIR: 0.85
-* **Female-to-Male AIR: 1.02
-* **Hispanic-to-White AIR: 0.83
 * **Iteration Plot of the final model (inclusive of Training AUC, Validation AUC and Hispanic-to-White AIR: ![image](https://user-images.githubusercontent.com/12841463/131274193-1f068b6a-2d40-4776-884e-1c44e79dfc1b.png)
 
 
