@@ -77,5 +77,5 @@ DNSC_6301
   * One uncertainty could the off-label use of the model.  While it is the intention of the group to use the model specifically for extending a credit line, there is the potential of others to use it where it has not been tested.
   * Another uncertainty can be the accuracy of the data itself.  Over time, the data itself can become dated, leading to inaccurate results.
 * **Other unexpected results:
-  * The model still has bias and hard to fix it base on the dataset.
+  * The model still has bias and hard to fix it based on the dataset.
 
