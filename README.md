@@ -52,7 +52,14 @@ DNSC_6301
 * **Hyperparameters or other settings of your model:** max_depth = 12
 
 ### Quantitative analysis:
-* **Metrics used to evaluate the model and final figures:
+* **Metrics used to evaluate the model and final figures: 
+  * Training AUC: 0.78
+  * Validation AUC: 0.75
+  * Test AUC: 0.74
+  * Asian-to-White AIR: 1.00
+  * Black-to-White AIR: 0.85
+  * Female-to-Male AIR: 1.02
+  * Hispanic-to-White AIR: 0.83
 * **Training AUC: 0.78
 * **Validation AUC: 0.75
 * **Test AUC: 0.74
@@ -60,12 +67,15 @@ DNSC_6301
 * **Black-to-White AIR: 0.85
 * **Female-to-Male AIR: 1.02
 * **Hispanic-to-White AIR: 0.83
-* **Iteration Plot of the final model (inclusive of Training AUC, Validation AUC and Hispanic-to-White AIR: download
+* **Iteration Plot of the final model (inclusive of Training AUC, Validation AUC and Hispanic-to-White AIR: ![image](https://user-images.githubusercontent.com/12841463/131274193-1f068b6a-2d40-4776-884e-1c44e79dfc1b.png)
+
 
 ### Ethical considerations:
 * **Potential negative impacts of the model:
-- The model can lead to descrimination.  While the model may be accurate, accuracy does not always imply the model is unbiased.  Numerous factors that can lead to delinquency unfortunately can potentially be linked to race or gender.  Bias testing was implemented in order to mitigate any potential descrimination.
+  * The model can lead to descrimination.  While the model may be accurate, accuracy does not always imply the model is unbiased.  Numerous factors that can lead to delinquency unfortunately can potentially be linked to race or gender.  Bias testing was implemented in order to mitigate any potential descrimination.
 * **Potential uncertainties relating to the impact of using the model:
-- One uncertainty could the off-label use of the model.  While it is the intention of the group to use the model specifically for extending a credit line, there is the potential of others to use it where it has not been tested.
-* - Another uncertainty can be the accuracy of the data itself.  Over time, the data itself can become dated, leading to inaccurate results.
+  * One uncertainty could the off-label use of the model.  While it is the intention of the group to use the model specifically for extending a credit line, there is the potential of others to use it where it has not been tested.
+  * Another uncertainty can be the accuracy of the data itself.  Over time, the data itself can become dated, leading to inaccurate results.
 * **Other unexpected results:
+  * The model still has bias and hard to fix it base on the dataset.
+
