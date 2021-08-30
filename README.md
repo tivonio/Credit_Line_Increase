@@ -66,6 +66,7 @@ DNSC_6301
 ### Ethical considerations:
 * **Potential negative impacts of the model:
   * The model can lead to descrimination.  While the model may be accurate, accuracy does not always imply the model is unbiased.  Numerous factors that can lead to delinquency unfortunately can potentially be linked to race or gender.  Bias testing was implemented in order to mitigate any potential descrimination.
+  *  According to variable importance chart, the most recent payment is the primary factor the decision tree splits on.  As we have seen in the pandemic, the people that are affected most by economic disruptions are lower income individuals, who would be most in need of potential increased credit lines.
 * **Potential uncertainties relating to the impact of using the model:
   * One uncertainty could the off-label use of the model.  While it is the intention of the group to use the model specifically for extending a credit line, there is the potential of others to use it where it has not been tested.
   * Another uncertainty can be the accuracy of the data itself.  Over time, the data itself can become dated, leading to inaccurate results.
