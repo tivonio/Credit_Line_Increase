@@ -5,7 +5,7 @@ DNSC_6301
 
 *  **Authors : Students at the George Washington University School of Business**: Group 17 : Tivon Johnson `tivonj`, Harsharan Gorli `Harsh-5`, Andrew Levy `Arl34`, Yingying Liu `Yingying0201`
 * **Model date**: August, 2021
-* **Model version**: 0.22.2.post1
+* **Model version**: 1.0
 * **License**: Apache 2.0 License
 * **Model implementation code**: [Credit_Line_Increase.ipynb](Credit_Line_Increase.ipynb)
 
